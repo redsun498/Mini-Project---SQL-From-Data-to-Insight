@@ -1,4 +1,4 @@
 # Names of the imports with their versions
 Python == 3.11.5
 pandas == 2.0.3
-
+mysql == 8.0.34
