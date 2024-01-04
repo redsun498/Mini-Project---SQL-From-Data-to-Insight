@@ -2,7 +2,7 @@
 Project status - Active 
 
 # Project Objective
-This project tackles how video game genres have evolved throught the years utilizing their sales as metric for their popularity. The objective is to determine whether the Adventure genre has performed differently compared to other genres in the video game industry over the last four decades.
+This project tackles how video game genres have evolved throught the years utilizing their sales as a metric for their popularity. The objective is to determine whether the Adventure genre has performed differently compared to other genres in the video game industry over the last four decades.
 
 # Methods
 The following methods were utilized:
